@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Miriam Calafa"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Robotics and Computer Engineer"
   location         : "Tartu, Estonia"
-  employer         : "Red Brick University"
+  employer         : "Tartu University"
   uri              : # URL
   email            : "Miriamcalafa00@gmail.com" 
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Miriam Calafa'
+  linkedin         : https://www.linkedin.com/in/miriam-calafa-b77a31213/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
