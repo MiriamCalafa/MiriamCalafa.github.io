@@ -11,26 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc in Robotics and Computer Engineering, University of Tartu 2025 
+* BSc in Automation Engineering, Politecnico of Milan 2022
+* Erasmus+ program, Universidad Politecnica de Madrid 2021
+* PLC online course
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Summer 2025: Teacher Assistant Human-Robot Interaction
   * GitHub University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024-2025: Python Tutor
+  * Kodland
+  * Duties included: Teaching Python
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-2023: Software Developer
+  * Microstudio srl, Italy
+  * Duties included: C# and SQL softare for warehouse managing
+
   
 Skills
 ======
