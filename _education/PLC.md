@@ -1,0 +1,11 @@
+---
+title: "BSc Automation Engineering"
+collection: education
+type: "Politecnico di Milano"
+permalink: /education/BSc
+venue: "Politecnico di Milano"
+date: 06-2022
+location: "Milan, Italy"
+---
+
+I will participate to Human-Robot Interaction Summer School
