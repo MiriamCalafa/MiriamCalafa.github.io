@@ -4,7 +4,8 @@ collection: education
 layout: single
 permalink: /education/BSc/
 venue: "Politecnico di Milano"
-date: 2022-06-01
+date1: "2019"
+date2: "2022"
 location: "Milan, Italy"
 author_profile: false
 ---

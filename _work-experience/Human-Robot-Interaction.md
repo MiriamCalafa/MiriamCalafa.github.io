@@ -1,8 +1,8 @@
 ---
 title: "Teacher Assistant for Human-Robot Interaction"
-collection: teaching
+collection: work-experience
 type: "Tartu University Summer School"
-permalink: /teaching/Human-Robot-Interaction
+permalink: /work-experience/Human-Robot-Interaction
 venue: "Tartu University"
 date: 07-2025
 location: "Tartu, Estonia"

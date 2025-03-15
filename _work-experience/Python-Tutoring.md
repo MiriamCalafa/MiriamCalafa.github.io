@@ -1,8 +1,8 @@
 ---
 title: "Python Tutoring"
-collection: teaching
+collection: work-experience
 type: "Python Classes Online"
-permalink: /teaching/Python-Tutoring
+permalink: /work-experience/Python-Tutoring
 venue: "Kodland"
 date: 11-2024
 location: "Italy"
