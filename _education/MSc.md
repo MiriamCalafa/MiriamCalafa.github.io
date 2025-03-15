@@ -1,5 +1,5 @@
 ---
-title: "MSc Robotics and Computer Engineering"
+title: "MSc Robotics and Computer Engineering   GPA: 4.92"
 collection: education
 type: "Tartu University"
 permalink: /education/MSc

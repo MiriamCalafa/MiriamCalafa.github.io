@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * MSc in Robotics and Computer Engineering, University of Tartu 2025 
+* Single Courses, Politecnico of Milan 2023
 * BSc in Automation Engineering, Politecnico of Milan 2022
 * Erasmus+ program, Universidad Politecnica de Madrid 2021
 * PLC online course
@@ -22,7 +23,7 @@ Work experience
   * GitHub University
   * Duties includes: Updates and improvements to template
 
-* 2024-2025: Python Tutor
+* 2024-current: Python Tutor
   * Kodland
   * Duties included: Teaching Python
 
@@ -31,33 +32,30 @@ Work experience
   * Duties included: C# and SQL softare for warehouse managing
 
   
-Skills
+Digital Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* ROS2
+* SolidWorks (CSWA certification)
+* SQL
+* C++
+* PLC
+* Figma
+* Machine Learning
+* Project Management
+* Business Analysis
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Soft Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Organization
+* Time management
+* Leadership
+
+
+Languages
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Italian: Native
+* English: C1 certification
+* Spanish: B1 level
+* Estonian: A2 level

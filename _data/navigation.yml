@@ -14,17 +14,23 @@ main:
   - title: "Work Experience"
     url: /work-experience/    
 
-  - title: "Teaching"
-    url: /teaching/   
+  #- title: "Teaching"
+  #  url: /teaching/   
     
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
         
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Skills"
+    url: /skills/
+
+  - title: "Sport"
+    url: /sport/
     
   - title: "Guide"
     url: /markdown/
