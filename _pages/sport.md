@@ -19,3 +19,11 @@ Training for:
 ======
 * 18/05/2025 Rimi Riga Marathon -> 21.1km
 * 25/05/2025 PolimiRun -> 10km
+
+Previous race:
+=====
+* 05/10/2024 Tartu LinnaMaraton -> 21.1km
+* Rimi Riga Marathons -> 10km
+* PolimiRun -> 10km
+* Tartu MaastikaMaraton -> 21.1km
+* Tartu LinnaMaraton ->21.km

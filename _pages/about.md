@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Miriam, an enthusiastic Robotics and Computer Engineering student at the University of Tartu, soon to graduate. I hold a B.Sc. in Automation Engineering from Politecnico di Milano, and my passion lies at the intersection of technology, robotics, and management.
+Hi, I’m Miriam, a soon-to-graduate Robotics and Computer Engineering student at the University of Tartu with a B.Sc. in Automation Engineering from Politecnico di Milano. My passion lies in the intersection of robotics, software development, Human-Robot Interaction (HRI), and system integration.
 
-I thrive in dynamic environments, bringing energy, spontaneity, and strong organizational skills to every project. As a fast learner with a keen problem-solving mindset, I have developed hands-on experience in social robotics, AI, and Python programming.
+I thrive in fast-paced, dynamic environments, bringing energy, organization, and a proactive problem-solving mindset to every project. With hands-on experience in ROS2, Python, C++, and complex system integration, I have worked extensively in robotic prototyping, R&D, and software development. My thesis research focuses on developing a digital twin for a robotic study companion, emphasizing multimodal emotional expressivity to enhance human-robot interactions.
 
-Beyond engineering, I am deeply passionate about management and leadership, valuing effective communication and strategic decision-making. Outside of academics, I’m a dedicated athlete, particularly in running, where I embrace discipline, resilience, and continuous improvement—values I also apply to my professional journey.
+Beyond engineering, I am passionate about project management and leadership, having completed multiple management courses and collaborated on cross-functional projects. My experience as a Python tutor and teaching assistant has strengthened my ability to communicate complex technical concepts effectively.
+
+Outside of academics, I am a dedicated athlete and long-distance runner, embracing discipline, resilience, and continuous improvement—values that also shape my professional and academic journey.
 
 
