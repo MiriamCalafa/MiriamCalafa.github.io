@@ -36,4 +36,4 @@ Languages
 * Italian: Native
 * English: C1 certification
 * Spanish: B1 level
-* Estonian: A2 lever
+* Estonian: A2 level
