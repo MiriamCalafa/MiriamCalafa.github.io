@@ -1,23 +1,40 @@
 ---
-title: "Thesis Project: Development of an emotional Human-Robot Inteaction for University students social robot"
-excerpt: "Literature study and prototyping of a Robot Study Companion behaviours to support University Students<br/>"
+title: "Thesis Project: Designing Multimodal Emotional Expression for a Robotic Study Companion"
+excerpt: "Literature study, prototyping  andtesting of a Robot Study Companion behaviours to support University Students<br/>"
 collection: portfolio
 str_date: "2024-2025"
 
 ---
 
-This thesis explores the role of emotional expressivity in robotic study companions (RSCs) and its impact on the learning experience of university students. While previous research in Human-Robot Interaction (HRI) has primarily focused on younger students, this study addresses the gap in university-level educational robotics, where emotional engagement and adaptive support are essential for academic success.  
+## Abstract
+This thesis investigates the design, implementation, and evaluation of the emotional expression
+of the Robot Study Companion (RSC) intended to support university students’ motivation, well-being, and learning outcomes.
 
-A digital twin of the Robot Study Companion (RSC), originally developed by Farnaz Baksh, was designed and implemented using ROS2 to facilitate further enhancements in emotional expression. This digital twin provided a simulation environment for refining multimodal interactions, enabling improvements in the robot’s facial expressions, gestures, colors, and speech capabilities to better align with human emotional perception.  
+Guided by a theoretical review of affective feedback in educational robotics, we identified six
+target emotions: Anger, Joy, Pride, Fun, Surprise, and Caring, each linked to educationally
+meaningful functions. We developed a fully functional digital twin of the RSC in ROS 2 to
+enable rapid prototyping and simulation, and built a modular emotional expression that coordinates color, motion, facial expression, and vocal behavior for each emotional response.
+To assess recognition accuracy and user experience, we conducted a video-based cross-cultural
+study with 47 participants. Participants distinguished positive versus negative valence with over
+95% accuracy, and achieved an overall emotion-recognition rate of 58.16%. User Experience
+Questionnaire (UEQ) results were consistently positive, with Perspicuity and Attractiveness
+rated highest. Qualitative interviews highlighted the strengths of our multimodal design as well
+as opportunities for refinement. Cross-group analyses revealed systematic differences by gender, academic level, and nationality, underscoring the need for adaptive, personalized emotion
+profiles.
 
-To evaluate the effectiveness of these enhancements, a cross-cultural study was conducted with university students. The study aimed to assess how different cultures interpret and respond to robotic emotions and whether the multimodal expressions successfully conveyed the intended emotional states.  
+All software developed in this work is released open-source, providing a robust foundation for
+future research in affective human–robot interaction within educational settings
 
-The key achievements of this research include the development of a digital twin of the RSC using ROS2, allowing for scalable testing and refinement of emotional expressivity. The multimodal emotional communication of the RSC was improved by refining its facial expressions, gestures, colors, and speech-based interactions. A cross-cultural study was conducted, validating the effectiveness of the robot’s emotional expressions across diverse student backgrounds. The research demonstrated that multimodal emotional expression contributes to higher engagement, reduced academic stress, and improved study motivation among university students. It also identified key differences in emotional perception across cultures, offering insights for designing adaptive, culturally aware robotic companions.  
+## Conferences and Publications
 
-These findings contribute to the broader discussion on emotion-driven HRI and highlight the potential of emotionally expressive robots in supporting university students' academic journeys. The research paves the way for future improvements in social robotic design, ensuring that study companions are not only functional but also engaging and emotionally supportive learning partners.  
+* The design part of the thesis project is currently under review for RO-MAN conference 2025.
+* This project has been selected to participate to ENLIGHT Teaching and Learning Conference in Stocholm (8-10 October 2025).
+
 
 <iframe src="/files/RO_MAN_MIRIAM.pdf" width="100%" height="600px">
   <p>Your browser does not support iframes. 
      <a href="/files/RO_MAN_MIRIAM.pdf">Download the PDF instead.</a>
   </p>
 </iframe>
+
+

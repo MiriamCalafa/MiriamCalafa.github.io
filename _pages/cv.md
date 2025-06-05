@@ -44,6 +44,7 @@ Digital Skills
 * Machine Learning
 * Project Management
 * Business Analysis
+* LaTex
 
   
 Soft Skills

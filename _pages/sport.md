@@ -17,13 +17,15 @@ Current Running Personal Records:
 
 Training for:
 ======
-* 18/05/2025 Rimi Riga Marathon -> 21.1km
-* 25/05/2025 PolimiRun -> 10km
+* 10/05/2026 Copenhagen Marathon -> 42.2km
+* 05/10/2025 PolimiRun -> 21.1km
 
 Previous race:
 =====
-* 05/10/2024 Tartu LinnaMaraton -> 21.1km
-* Rimi Riga Marathons -> 10km
-* PolimiRun -> 10km
-* Tartu MaastikaMaraton -> 21.1km
-* Tartu LinnaMaraton ->21.km
+* PolimiRun 2025 -> 10km
+* Rimi Riga Marathons 2025 -> 21.1km
+* Tartu LinnaMaraton 2024 -> 21.1km
+* Rimi Riga Marathons 2024 -> 10km
+* PolimiRun 2024 -> 10km
+* Tartu MaastikaMaraton 2024 -> 21.1km
+* Tartu LinnaMaraton 2023 ->21.km
