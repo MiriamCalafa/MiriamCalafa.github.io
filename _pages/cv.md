@@ -9,54 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* MSc in Robotics and Computer Engineering, University of Tartu 2025 
-* Single Courses, Politecnico of Milan 2023
-* BSc in Automation Engineering, Politecnico of Milan 2022
-* Erasmus+ program, Universidad Politecnica de Madrid 2021
-* PLC online course
+## 📄 Curriculum Vitae
 
-Work experience
-======
-* Summer 2025: Teacher Assistant Human-Robot Interaction
-  * GitHub University
-  * Duties includes: Updates and improvements to template
+You can download or view my CV below:
 
-* 2024-current: Python Tutor
-  * Kodland
-  * Duties included: Teaching Python
+[Download CV (PDF)](cv_miriam_calafa.pdf)
 
-* 2022-2023: Software Developer
-  * Microstudio srl, Italy
-  * Duties included: C# and SQL softare for warehouse managing
-
-  
-Digital Skills
-======
-* Python
-* ROS2
-* SolidWorks (CSWA certification)
-* SQL
-* C++
-* PLC
-* Figma
-* Machine Learning
-* Project Management
-* Business Analysis
-* LaTex
-
-  
-Soft Skills
-======
-* Organization
-* Time management
-* Leadership
-
-
-Languages
-======
-* Italian: Native
-* English: C1 certification
-* Spanish: B1 level
-* Estonian: A2 level
+<iframe src="/files/cv_miriam_calafa.pdf" width="100%" height="100%" style="border: none;"></iframe>

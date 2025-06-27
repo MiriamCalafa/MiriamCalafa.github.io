@@ -1,40 +1,27 @@
 ---
 title: "Thesis Project: Designing Multimodal Emotional Expression for a Robotic Study Companion"
-excerpt: "Literature study, prototyping  andtesting of a Robot Study Companion behaviours to support University Students<br/>"
+excerpt: "Literature study, prototyping and testing of a Robot Study Companion behaviours to support University Students<br/>"
 collection: portfolio
 str_date: "2024-2025"
 
 ---
 
-## Abstract
-This thesis investigates the design, implementation, and evaluation of the emotional expression
-of the Robot Study Companion (RSC) intended to support university students’ motivation, well-being, and learning outcomes.
+## Thesis Overview
 
-Guided by a theoretical review of affective feedback in educational robotics, we identified six
-target emotions: Anger, Joy, Pride, Fun, Surprise, and Caring, each linked to educationally
-meaningful functions. We developed a fully functional digital twin of the RSC in ROS 2 to
-enable rapid prototyping and simulation, and built a modular emotional expression that coordinates color, motion, facial expression, and vocal behavior for each emotional response.
-To assess recognition accuracy and user experience, we conducted a video-based cross-cultural
-study with 47 participants. Participants distinguished positive versus negative valence with over
-95% accuracy, and achieved an overall emotion-recognition rate of 58.16%. User Experience
-Questionnaire (UEQ) results were consistently positive, with Perspicuity and Attractiveness
-rated highest. Qualitative interviews highlighted the strengths of our multimodal design as well
-as opportunities for refinement. Cross-group analyses revealed systematic differences by gender, academic level, and nationality, underscoring the need for adaptive, personalized emotion
-profiles.
+My MSc thesis, “Designing Multimodal Emotional Expression for a Robotic Study Companion,” explores how affective robotics can support student motivation, well-being, and learning. Grounded in a theoretical review of affective feedback in educational settings, the project identifies six core emotions: Anger, Joy, Pride, Fun, Surprise, and Caring, each tied to pedagogical functions.
 
-All software developed in this work is released open-source, providing a robust foundation for
-future research in affective human–robot interaction within educational settings
+To prototype and test these emotional expressions, I developed a fully functional ROS 2-based digital twin of the Robot Study Companion (RSC), enabling rapid iteration and simulation. The emotional model integrates synchronized modalities, color, motion, facial expression, and voice, to create cohesive, recognizable responses.
 
-## Conferences and Publications
+Evaluation involved a cross-cultural, video-based user study with 47 participants. Recognition accuracy for emotional valence exceeded 95%, with an overall emotion-recognition rate of 58.16%. Results from the User Experience Questionnaire (UEQ) were strongly positive, especially in the dimensions of Perspicuity and Attractiveness. Semi-structured interviews further validated the design's impact and identified paths for refinement. Notably, cross-group analyses revealed significant variation by gender, academic level, and nationality, highlighting the potential for adaptive, personalized emotional profiles in future implementations.
 
-* The design part of the thesis project is currently under review for RO-MAN conference 2025.
-* This project has been selected to participate to ENLIGHT Teaching and Learning Conference in Stocholm (8-10 October 2025).
+All software developed is open-source and contributes a robust platform for continued exploration of emotional expressivity in human–robot interaction.
+
+## Conferences, Publications, and Awards
+
+*    **ENLIGHT Teaching & Learning Conference 2025**: The project was selected for presentation at ENLIGHT in Stockholm, where it received the **Inclusion Award** for promoting emotional inclusivity in robotic systems.
+
+*    Publication (accepted):
+    _M. Calafa, F. Baksh, M. B. Zorec, and K. Kruusamäe_, **"Emotive Design of a Robot Study Companion to Support University Learning,"** to appear in Proceedings of the **IEEE RO-MAN 2025**.
 
 
-<iframe src="/files/RO_MAN_MIRIAM.pdf" width="100%" height="600px">
-  <p>Your browser does not support iframes. 
-     <a href="/files/RO_MAN_MIRIAM.pdf">Download the PDF instead.</a>
-  </p>
-</iframe>
-
-
+<img src="/images/digital_twin.png" alt="Digital Twin of Robot Study Companion" style="max-width:100%; height:auto;">
