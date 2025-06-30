@@ -18,7 +18,7 @@ Current Running Personal Records:
 Training for:
 ======
 * 10/05/2026 Copenhagen Marathon -> 42.2km
-* 05/10/2025 PolimiRun -> 21.1km
+* 05/10/2025 Tartu LinnaMaraton-> 21.1km
 
 Previous race:
 =====
